@@ -13,7 +13,7 @@ Seznam vključenih načrtovalskih vzorcev in načinov implementacije le-teh:
 |             | Objektno usmerjeno programiranje | Metaprogramiranje| Knjižnica PyPattyrn| 
 | ----------- | ----------- |-----------|----------- | 
 | **Edinec**  |✓       |✓| ✓| 
-| **Tovarniška metoda**   | ✓        | | | 
+| **Tovarniška metoda**   | ✓        | | ✓ | 
 | **Fasada**   | ✓    | | ✓| 
 | **Prototip**   | ✓       | ✓| ✓| 
 | **Prototip-Edinec**   |        | ✓| | 
