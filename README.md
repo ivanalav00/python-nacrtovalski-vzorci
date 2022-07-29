@@ -24,7 +24,7 @@ Seznam vključenih načrtovalskih vzorcev in načinov implementacije le-teh:
 
 ---
 
-##Avtorji
+## Avtorji
 
 Avtor diplomske naloge in lastnik repozitorija:
 - Ivana Lavrič 
