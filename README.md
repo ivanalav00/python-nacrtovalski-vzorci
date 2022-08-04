@@ -2,7 +2,7 @@
 
 Repozitorij vključuje zbirko različnih načinov implementacije nekaterih GoF načrtovalskih vzorcev, v programskem jeziku Python.
 
-Zbirka je bila sestavljena v sklopu diplomskega dela z naslovom *Uporaba načrtovalskih vzorcev v programskem jeziku Python*, na Univerzi V Mariboru, Fakulteta za elektrotehniko, računalništvo in informatiko. 
+Zbirka je bila sestavljena v sklopu diplomskega dela z naslovom *Uporaba načrtovalskih vzorcev v programskem jeziku Python*. 
 
 ---
 
